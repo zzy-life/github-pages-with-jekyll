@@ -1,6 +1,10 @@
-title: Your awesome title
+title: Your awesome titles
 author: GitHub User
-email: your-email@domain.com
+name:zhangzhiyu
+email: 790002517@qq.com
+location: 湖南
+position: 软件系学生
+phone: 13142090238
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
